@@ -1,0 +1,6 @@
+This file contains the list of people involved in the development of CC-Server-Time along its history.
+
+Nikodem Jankiewicz <http://nikodemjankiewicz.pl>
+Piotr Niewiadomski <http://piotr.press>
+
+Great thanks to Clearcode <https://clearcode.cc> for allowing releasing CC-Server-Time plugin as free software!
